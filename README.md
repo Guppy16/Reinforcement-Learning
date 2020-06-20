@@ -4,5 +4,8 @@
 - Cartpole links:
   - https://github.com/Guppy16/cartpole
   - https://towardsdatascience.com/cartpole-introduction-to-reinforcement-learning-ed0eb5b58288
-  - [Reinforcement Learning with tf2](https://medium.com/@hamza.emra/reinforcement-learning-with-tensorflow-2-0-cca33fead626)
+  
+ # Tensor Flow
+- [Reinforcement Learning with tf2](https://medium.com/@hamza.emra/reinforcement-learning-with-tensorflow-2-0-cca33fead626)
 - [Intro to deep learning by MIT](http://introtodeeplearning.com/2019/index.html)
+- [TF Tutorials](https://www.tensorflow.org/tutorials/)
